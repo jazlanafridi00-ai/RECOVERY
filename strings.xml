@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusGuard AI</string>
+    <string name="accessibility_service_description">Lets FocusGuard AI detect when a blocked app is opened so it can close it immediately. FocusGuard AI does not read screen content.</string>
+</resources>
